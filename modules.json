@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "meta11_1",
+    "module_label": "META.11.1 - Capacity Planning Logging",
+    "module_title": "Capacity Planning Logging",
+    "module_slug": "capacity_planning_logging",
+    "app_code": "meta11",
+    "app_label": "META 11 - Scalability Strategy Controller",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta11_3",
+    "module_label": "META.11.3 - Performance Validation & Reporting",
+    "module_title": "Performance Validation & Reporting",
+    "module_slug": "performance_validation_and_reporting",
+    "app_code": "meta11",
+    "app_label": "META 11 - Scalability Strategy Controller",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta11_2",
+    "module_label": "META.11.2 - Resource Allocation & Scaling Tracking",
+    "module_title": "Resource Allocation & Scaling Tracking",
+    "module_slug": "resource_allocation_and_scaling_tracking",
+    "app_code": "meta11",
+    "app_label": "META 11 - Scalability Strategy Controller",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  }
+]
